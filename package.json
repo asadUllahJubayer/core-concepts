@@ -1,11 +1,19 @@
 {
   "name": "react-tutorial",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadUllahJubayer/core-concepts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asadUllahJubayer/core-concepts/issues"
+  },
+  "homepage": "https://github.com/asadUllahJubayer/core-concepts#readme",
+  "description": ""
 }
